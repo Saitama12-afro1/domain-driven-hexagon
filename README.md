@@ -1,6 +1,6 @@
 _**This repo is work in progress**_
 
-# DRD LORD -pupirkin-kopirkin-zuraaaaab
+# DRD LORD -pupirkin-kopirkin-zuraaaaab-SSSSSSSSSSS
 
 Main emphasis of this project is to provide recommendations on how to design software applications. In this readme are presented some of the techniques, tools, best practices, architectural patterns and guidelines gathered from different sources.
 
